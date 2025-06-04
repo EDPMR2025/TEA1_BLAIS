@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TEA1 BLAIS</string>
+    <string name="pseudo_hint">Entrez votre pseudo</string>
+    <string name="ok">OK</string>
+    <string name="settings">Préférences</string>
+    <string name="new_list">Nouvelle Liste</string>
+    <string name="new_item">Nouvel Item</string>
+    <string name="clear_history">Effacer l\'historique</string>
+    <string name="pseudo_settings">Pseudo</string>
+    <string name="pseudo_settings_summary">Votre pseudo actuel</string>
+</resources>
